@@ -1,0 +1,57 @@
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+body {
+    background-image: url(../images/clockoption.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Nunito Sans', sans-serif;
+    
+}
+
+#tanbox {
+    background:lightslategray;
+    opacity: .8;
+    margin-left:30%;
+    margin-right: 30%;
+    border-right: solid black thick;
+    border-left:solid black thick;
+    height: 100vh;
+    padding-top:35px;
+    padding-left:10px;
+    text-align: center;
+    
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+
+    font-size: 25px;
+}
+
+img {
+    height: 250px;
+    opacity: 1;
+    text-align: center
+}
+button {
+  
+    font-size: 25px;
+    margin-top: 20px;
+    border: solid black;
+    color: black;
+    
+} 
+
+a {
+    text-decoration: none;
+    color: black;
+}

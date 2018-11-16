@@ -1,0 +1,14 @@
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+body {
+    background-image: url(../images/agriculture-clouds-countryside-102728.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Nunito Sans', sans-serif;
+    
+}
