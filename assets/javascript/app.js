@@ -1,2 +1,2 @@
-let score= 0;
+let score = 0;
 export default score;
