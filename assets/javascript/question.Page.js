@@ -1,3 +1,4 @@
+// import {m} from './app';
 var time = 10;
 
 setInterval(function(){
@@ -31,4 +32,4 @@ $( "#flat" ).click(function() {
 //   }
 
 
-
+// console.log(m)

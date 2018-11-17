@@ -4,6 +4,6 @@ setInterval(function(){
     timer--
 
     if (timer === 0){
-window.location.replace("second-question.html");
+window.location.replace("third-question.html");
 }
 }, 1000);
