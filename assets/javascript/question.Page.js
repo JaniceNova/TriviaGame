@@ -1,4 +1,4 @@
-// import {m} from './app';
+
 var time = 10;
 var score1 = 0;
 
@@ -15,6 +15,9 @@ $("#flat").click(function () {
     score1 = 1;
     if (score1 = 1) {
         window.location.replace("winner1.html");
+        score1= score1;
+        console.log(score1);
+
     }
 });
 $("#round").click(function () {
@@ -23,18 +26,4 @@ $("#round").click(function () {
 });
 
 
-//   if(window.location("winner1.html")){
-//     setInterval(function(){
-//         var time = 3;
-//         time--
-//         $(".timer").html(time)
 
-//         if (time === 0){
-//     window.location.replace("loser1.html");
-//     }
-//     }, 1000);
-
-//   }
-
-
-// console.log(m)
