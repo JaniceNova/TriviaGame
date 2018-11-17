@@ -14,6 +14,7 @@ $("#Sunday").click(function () {
 
   if (score3 = 1) {
     window.location.replace("winner3.html");
+    var kitcat = 6;
   }
 });
 $("#VladLad").click(function () {

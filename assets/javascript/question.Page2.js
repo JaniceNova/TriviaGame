@@ -14,6 +14,7 @@ $("#real").click(function () {
     score2 = 1;
     if (score2 = 1) {
         window.location.replace("winner2.html");
+        var cat =9;
     }
 });
 $("#fake").click(function () {

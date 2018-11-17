@@ -6,3 +6,4 @@ console.log(score1 + score2 + score3);
 console.log(score1);
 console.log(score2);
 console.log(score3);
+
